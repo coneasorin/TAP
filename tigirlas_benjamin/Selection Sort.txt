@@ -1,0 +1,27 @@
+2 8 5 3 9 4 1
+
+2 - first current minimum / 1 - current item (the smallest)[1 becomes current minimum] => swap (2,1)
+
+1 8 5 3 9 4 2    (1 left out)
+
+8 - first current minimum (then 5,3) / 2 - current item (the smallest)[2 becomes current minimum] => swap(8,2)
+
+1 2 5 3 9 4 8   (1 2 left out)
+
+5 - first current minimum / 3 - current item (the smallest)[3 becomes current minimum] => swap(5,3)
+
+1 2 3 5 9 4 8   (1 2 3 left out)
+
+5 - first current minimum / 4 - current item (the smallest)[4 mbecomes current minimum] => swap(5,4)
+
+1 2 3 4 9 5 8   (1 2 3 4 left out)
+
+9 - first current minimum / 5 - current item (the smallest)[4 becomes current minimum] => swap(9,5)
+
+1 2 3 4 5 9 8   (1 2 3 4 5 left out)
+
+9 - first current minimum / 8 - current item (the smallest)[8 becomes current minimum] => swap(9,8)
+
+1 2 3 4 5 8 9   (1 2 3 4 5 8 left out)
+
+9 can't be compared with anything, so the sort is complete.
