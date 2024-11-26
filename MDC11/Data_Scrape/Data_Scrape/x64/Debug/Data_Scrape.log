@@ -1,0 +1,11 @@
+﻿  Data_Scrape.cpp
+C:\Users\Student\Desktop\MDC11\Data_Scrape\Data_Scrape\Data_Scrape.cpp(1,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Student\Desktop\MDC11\Data_Scrape\Data_Scrape\Data_Scrape.cpp(1,8): error C2146: syntax error: missing ';' before identifier 'requests'
+C:\Users\Student\Desktop\MDC11\Data_Scrape\Data_Scrape\Data_Scrape.cpp(4,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Student\Desktop\MDC11\Data_Scrape\Data_Scrape\Data_Scrape.cpp(4,9): error C2440: 'initializing': cannot convert from 'const char [107]' to 'int'
+      C:\Users\Student\Desktop\MDC11\Data_Scrape\Data_Scrape\Data_Scrape.cpp(4,9):
+      There is no context in which this conversion is possible
+  
+C:\Users\Student\Desktop\MDC11\Data_Scrape\Data_Scrape\Data_Scrape.cpp(5,5): error C2146: syntax error: missing ';' before identifier 'page'
+C:\Users\Student\Desktop\MDC11\Data_Scrape\Data_Scrape\Data_Scrape.cpp(6,37): error C2015: too many characters in constant
+C:\Users\Student\Desktop\MDC11\Data_Scrape\Data_Scrape\Data_Scrape.cpp(7,1): error C1021: invalid preprocessor command 'print'

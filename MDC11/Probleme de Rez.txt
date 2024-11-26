@@ -1,0 +1,4 @@
+Probleme de Rez
+
+
+afiseaza suma numerelor de la 1 la 100 care sa determine produsul primelor 10 nr naturale, sa se afiseze primele 20 de nr impare , sa se creeze un program care sa determine cel mai mare divizor comun pt 2 numere intregi citite de la tastatura, un program care afiseaza factorialul primelor n numere citite de la tastatura, determinati daca un numar citit de la tastatura este prim, determinati daca un an citit de la tastatura este bisect, scrieti un program care determina suma si media unor listere de numere citite de la tastatura si determinati suma si media aritemtica a tastaturii, se citeste un sir de numere de la tastatura sa se citeasca sirul prin metoda Bubble sort, rezolvati ecuatia de gradul 2 in python, se citesc 3 numere de la tastatura sa se afiseze un mesaj daca acestea pot reprezenta unghiurile unui triunghi

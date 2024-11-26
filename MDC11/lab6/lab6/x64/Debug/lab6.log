@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  lab6.cpp
+C:\Users\Student\Desktop\MDC11\lab6\lab6\lab6.cpp(14,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/lab6.cpp')
+  
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  lab6.vcxproj -> C:\Users\Student\Desktop\MDC11\lab6\x64\Debug\lab6.exe

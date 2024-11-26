@@ -1,0 +1,5 @@
+﻿  mergesort.cpp
+C:\Users\Student\Desktop\MDC11\mergesort\mergesort\mergesort.cpp(5,9): error C2562: 'sortare': 'void' function returning a value
+      C:\Users\Student\Desktop\MDC11\mergesort\mergesort\mergesort.cpp(3,6):
+      see declaration of 'sortare'
+  

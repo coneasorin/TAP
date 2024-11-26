@@ -1,0 +1,2 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Student\Desktop\MDC11\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(17,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
