@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stefa\\Desktop\\Facultate Info\\Anul II\\Semestrul I\\TAP\\Lab4_TAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C118119-1156-4B82-A5D3-E035CF2CABF8}|Lab4_TAP.vcxproj|C:\\Users\\stefa\\Desktop\\Facultate Info\\Anul II\\Semestrul I\\TAP\\Lab4_TAP\\Lab4_TAP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C118119-1156-4B82-A5D3-E035CF2CABF8}|Lab4_TAP.vcxproj|solutionrelative:Lab4_TAP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab4_TAP.cpp",
+              "DocumentMoniker": "C:\\Users\\stefa\\Desktop\\Facultate Info\\Anul II\\Semestrul I\\TAP\\Lab4_TAP\\Lab4_TAP.cpp",
+              "RelativeDocumentMoniker": "Lab4_TAP.cpp",
+              "ToolTip": "C:\\Users\\stefa\\Desktop\\Facultate Info\\Anul II\\Semestrul I\\TAP\\Lab4_TAP\\Lab4_TAP.cpp*",
+              "RelativeToolTip": "Lab4_TAP.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T12:28:52.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
